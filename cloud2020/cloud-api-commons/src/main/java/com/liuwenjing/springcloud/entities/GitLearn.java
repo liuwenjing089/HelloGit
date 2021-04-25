@@ -6,7 +6,7 @@ public class GitLearn {
         System.out.println("将dev合并到master");
         System.out.println("主干master添加");
         System.out.println("分支dev添加");
-        System.out.println("远程分支master,与本地分支dev冲突");
+        System.out.println("远程分支master更新，与本地dev冲突,本地需要先更新");
 
 
     }
