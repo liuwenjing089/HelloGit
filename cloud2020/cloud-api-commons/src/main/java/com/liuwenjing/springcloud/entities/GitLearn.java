@@ -5,6 +5,7 @@ public class GitLearn {
         System.out.println("更新1");
         System.out.println("将dev合并到master");
         System.out.println("主干master添加");
+        System.out.println("分支dev添加");
 
 
     }
