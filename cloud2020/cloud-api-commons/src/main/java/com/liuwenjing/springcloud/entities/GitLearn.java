@@ -7,8 +7,8 @@ public class GitLearn {
         System.out.println("主干master添加");
         System.out.println("分支dev添加");
         System.out.println("远程分支master再次更新");
-         System.out.println("远程分支master,与本地dev:local-liuwenjing-dev冲突");
-        System.out.println("本地dev:liuwening-dev");
+        System.out.println("本地dev:local-liuwenjing-dev冲突,与远程master冲突");
+
 
 
     }
