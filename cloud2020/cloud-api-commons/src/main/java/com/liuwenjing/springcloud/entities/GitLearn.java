@@ -10,7 +10,7 @@ public class GitLearn {
         System.out.println("本地dev:local-liuwenjing-dev冲突,与远程master再次冲突");
         System.out.println("远程分支master,与本地dev:local-liuwenjing-dev冲突--SEVEN");
         System.out.println("远程分支master,与本地dev:local-liuwenjing-dev冲突--SIX");
-        System.out.println("远程分支master,与本地dev:local-liuwenjing-dev冲突--EIGHT");
+        System.out.println("远程分支master,与本地dev:local-liuwenjing-dev冲突--NINE");
 
 
     }
